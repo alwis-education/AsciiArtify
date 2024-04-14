@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: helloworld
+  name: hello
 spec:
   selector:
     matchLabels:
-      app: helloworld
+      app: hello
   replicas: 1 
   template:
     metadata:
       labels:
-        app: helloworld
+        app: hello
     spec:
       containers:
-      - name: helloworld
-        image: karthequian/helloworld:latest
+      - name: hello
+        image: docker.io/alwisx/helloworld
         ports:
         - containerPort: 8080
