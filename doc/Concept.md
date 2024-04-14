@@ -8,5 +8,4 @@
 
 
 
-https://asciinema.org/connect/975d11c5-7c59-41b8-bd47-e6b57029117f
-
+<img src="https://github.com/alwis-education/AsciiArtify/blob/master/doc/vid.svg">
