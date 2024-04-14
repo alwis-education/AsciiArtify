@@ -8,8 +8,5 @@
 
 
 
-```
-<iframe width="560" height="315" src="https://asciinema.org/connect/975d11c5-7c59-41b8-bd47-e6b57029117f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-```
+https://asciinema.org/connect/975d11c5-7c59-41b8-bd47-e6b57029117f
 
