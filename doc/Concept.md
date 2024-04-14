@@ -8,4 +8,4 @@
 
 
 
-<img src="https://github.com/alwis-education/AsciiArtify/blob/master/doc/vid.svg">
+<img src="https://github.com/alwis-education/AsciiArtify/blob/master/doc/vid.gif">
